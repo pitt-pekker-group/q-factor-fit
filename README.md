@@ -1,5 +1,7 @@
 # q-factor-fit
 
+The q-factor fitting methods and the associated computer code was developed by Zhuan Li.
+
 This code fits the Q-factor of the KTO resonator based on the following two-port circuit. 
 
 This circuit is composed of two identical segements of transmission line, each characterized by the impedance $Z_1$ and propagation constant $\gamma = a+bj$, a central impedance element $Z$, and input and output impedances $Z_0$.
